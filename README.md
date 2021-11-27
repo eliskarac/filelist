@@ -1,2 +1,2 @@
 # filelist
-Listing files in excel with pyhton
+Listing dekstop files in excel with xlsxwriter,glob,os in Python
